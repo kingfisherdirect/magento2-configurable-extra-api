@@ -1,0 +1,20 @@
+{
+    "name": "kingfisherdirect/magento2-configurable-extra-api",
+    "type": "magento2-module",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "KingfisherDirect\\ConfigurableExtraApi\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Kamil",
+            "email": "kamil@kingfisherdirect.co.uk"
+        }
+    ],
+    "require": {}
+}
