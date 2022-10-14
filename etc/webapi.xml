@@ -4,7 +4,7 @@
       <service class="KingfisherDirect\ConfigurableExtraApi\Api\ConfigurableLinksInterface"
                method="getParentIdsByChild"/>
       <resources>
-          <resource ref="anonymous"/>
+          <resource ref="Magento_Catalog::products" />
       </resources>
   </route>
 </routes>
